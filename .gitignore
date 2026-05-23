@@ -1,4 +1,7 @@
 __pycache__/
 Car_Logo_Dataset/
-*.pth 
-gpucore.1012832
+misc/
+*.pth
+*.tex 
+*.pdf
+
